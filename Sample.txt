@@ -1,2 +1,2 @@
-Sample file to test. Jenkins Github integration
+Sample to test. Jenkins Github integration
 Changed
